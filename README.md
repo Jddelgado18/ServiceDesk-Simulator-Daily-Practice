@@ -101,7 +101,7 @@ Duration: 45 minutes
 Tickets resolved: 6
 Calls taken: 3
 Tools used: Directory, Remote Desktop, Knowledge Base
-Notes: Practiced bulk password reset workflow and printer driver remote install
+Notes: Practiced password reset workflow and printer driver remote install
 ```
 
 ---
